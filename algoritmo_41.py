@@ -1,0 +1,23 @@
+i=int(input("ingrese un numero del 1 al 10"))
+if i==0:
+    print(i, "Cero")
+if i==1:
+    print(i, "Uno")
+if i==2:
+    print(i, "Dos")
+if i==3:
+    print(i, "Tres")
+if i==4:
+    print(i, "Cuatro")
+if i==5:
+    print(i, "Cinco")
+if i==6:
+    print(i, "Seis")
+if i==7:
+    print(i, "Siete")
+if i==8:
+    print(i, "Ocho")
+if i==9:
+    print(i, "Nueve")
+if i==10:
+    print(i, "Diez")

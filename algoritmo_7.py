@@ -1,0 +1,5 @@
+a= float(input("ingrese un decimal"))
+b= int(a)
+c= (b-a)*(-1)
+print("la parte entera es: ",b)
+print("la parte decimal es: ",c)
